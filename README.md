@@ -27,24 +27,7 @@ A simple command-line calculator built with Python.
 1. Download the Python file.
 2. Open a terminal in the project folder.
 3. Run:
-python calculator.py
-
-## Example
----CALCULATOR---
---MENU--
-
-+: ADDITION
--: SUBTRACTION
-*: MULTIPLICATION
-/: DIVISION
-**: POWER
-
-Enter operation: +
-Enter the first number: 5
-Enter the second number: 7
-
-5.0+7.0 is 12.0
-
+        python calculator.py
 
 ## What I Learned
 
